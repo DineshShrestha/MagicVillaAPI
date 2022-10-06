@@ -31,3 +31,7 @@ C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_Villa
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.pdb
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.genruntimeconfig.cache
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\ref\MagicVilla_VillaAPI.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
