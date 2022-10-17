@@ -29,3 +29,8 @@ C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_Villa
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.pdb
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.genruntimeconfig.cache
 C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\obj\Debug\net7.0\ref\MagicVilla_Web.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CopyComplete
