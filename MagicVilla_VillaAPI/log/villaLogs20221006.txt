@@ -1,0 +1,121 @@
+2022-10-06 22:40:56.656 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-10-06 22:40:56.748 +02:00 [DBG] Hosting starting
+2022-10-06 22:40:56.932 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2022-10-06 22:40:56.966 +02:00 [INF] Now listening on: https://localhost:7092
+2022-10-06 22:40:56.966 +02:00 [INF] Now listening on: http://localhost:5027
+2022-10-06 22:40:56.966 +02:00 [DBG] Loaded hosting startup assembly MagicVilla_VillaAPI
+2022-10-06 22:40:56.966 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-10-06 22:40:56.966 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-10-06 22:40:56.967 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-06 22:40:56.967 +02:00 [INF] Hosting environment: Development
+2022-10-06 22:40:56.967 +02:00 [INF] Content root path: C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI
+2022-10-06 22:40:56.967 +02:00 [DBG] Hosting started
+2022-10-06 22:40:57.035 +02:00 [DBG] Connection id "0HML7RC9277AR" accepted.
+2022-10-06 22:40:57.035 +02:00 [DBG] Connection id "0HML7RC9277AS" accepted.
+2022-10-06 22:40:57.036 +02:00 [DBG] Connection id "0HML7RC9277AR" started.
+2022-10-06 22:40:57.036 +02:00 [DBG] Connection id "0HML7RC9277AS" started.
+2022-10-06 22:40:57.053 +02:00 [DBG] Connection id "0HML7RC9277AR" received FIN.
+2022-10-06 22:40:57.053 +02:00 [DBG] Connection id "0HML7RC9277AS" received FIN.
+2022-10-06 22:40:57.062 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-10-06 22:40:57.062 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-10-06 22:40:57.153 +02:00 [DBG] Connection id "0HML7RC9277AR" stopped.
+2022-10-06 22:40:57.153 +02:00 [DBG] Connection id "0HML7RC9277AS" stopped.
+2022-10-06 22:40:57.161 +02:00 [DBG] Connection id "0HML7RC9277AS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-10-06 22:40:57.161 +02:00 [DBG] Connection id "0HML7RC9277AR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-10-06 22:40:57.377 +02:00 [DBG] Connection id "0HML7RC9277AT" accepted.
+2022-10-06 22:40:57.378 +02:00 [DBG] Connection id "0HML7RC9277AT" started.
+2022-10-06 22:40:57.474 +02:00 [DBG] Connection id "0HML7RC9277AT" received FIN.
+2022-10-06 22:40:57.477 +02:00 [DBG] Connection id "0HML7RC9277AU" accepted.
+2022-10-06 22:40:57.478 +02:00 [DBG] Connection id "0HML7RC9277AU" started.
+2022-10-06 22:40:57.494 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Det oppstod en ukjent feil under behandling av sertifikatet.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-10-06 22:40:57.495 +02:00 [DBG] Connection id "0HML7RC9277AU" received FIN.
+2022-10-06 22:40:57.496 +02:00 [DBG] Connection id "0HML7RC9277AT" stopped.
+2022-10-06 22:40:57.497 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Det oppstod en ukjent feil under behandling av sertifikatet.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-10-06 22:40:57.497 +02:00 [DBG] Connection id "0HML7RC9277AV" accepted.
+2022-10-06 22:40:57.497 +02:00 [DBG] Connection id "0HML7RC9277AT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-10-06 22:40:57.498 +02:00 [DBG] Connection id "0HML7RC9277AV" started.
+2022-10-06 22:40:57.498 +02:00 [DBG] Connection id "0HML7RC9277AU" stopped.
+2022-10-06 22:40:57.507 +02:00 [DBG] Connection id "0HML7RC9277AU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-10-06 22:40:57.527 +02:00 [DBG] Connection 0HML7RC9277AV established using the following protocol: "Tls13"
+2022-10-06 22:40:57.605 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger - -
+2022-10-06 22:40:57.629 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-10-06 22:40:57.658 +02:00 [DBG] No candidates found for the request path '/swagger'
+2022-10-06 22:40:57.660 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:57.687 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger - - - 301 0 - 82.8494ms
+2022-10-06 22:40:57.711 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger/index.html - -
+2022-10-06 22:40:57.713 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-10-06 22:40:57.713 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:57.815 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-10-06 22:40:57.922 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/_framework/aspnetcore-browser-refresh.js - -
+2022-10-06 22:40:57.922 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger/swagger-ui.css - -
+2022-10-06 22:40:57.922 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger/swagger-ui-standalone-preset.js - -
+2022-10-06 22:40:57.922 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger/swagger-ui-bundle.js - -
+2022-10-06 22:40:57.922 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+2022-10-06 22:40:57.922 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2022-10-06 22:40:57.922 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:57.922 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:57.922 +02:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2022-10-06 22:40:57.923 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:57.923 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-10-06 22:40:57.924 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger/index.html - - - 200 - text/html;charset=utf-8 213.6015ms
+2022-10-06 22:40:57.951 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/_vs/browserLink - -
+2022-10-06 22:40:57.952 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/_framework/aspnetcore-browser-refresh.js - - - 200 12008 application/javascript;+charset=utf-8 29.8727ms
+2022-10-06 22:40:57.968 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-10-06 22:40:57.969 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger/swagger-ui.css - - - 200 143943 text/css 46.6421ms
+2022-10-06 22:40:57.976 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-10-06 22:40:57.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 54.4085ms
+2022-10-06 22:40:57.984 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-10-06 22:40:57.984 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 61.9775ms
+2022-10-06 22:40:58.010 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.0325ms
+2022-10-06 22:40:58.201 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/swagger/v1/swagger.json - -
+2022-10-06 22:40:58.201 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-10-06 22:40:58.201 +02:00 [DBG] Request did not match any endpoints
+2022-10-06 22:40:58.348 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 146.9744ms
+2022-10-06 22:41:12.987 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7092/api/VillaAPI - -
+2022-10-06 22:41:12.990 +02:00 [DBG] 1 candidate(s) found for the request path '/api/VillaAPI'
+2022-10-06 22:41:12.992 +02:00 [DBG] Endpoint 'MagicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MagicVilla_VillaAPI)' with route pattern 'api/VillaAPI' is valid for the request path '/api/VillaAPI'
+2022-10-06 22:41:12.993 +02:00 [DBG] Request matched endpoint 'MagicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MagicVilla_VillaAPI)'
+2022-10-06 22:41:12.993 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-10-06 22:41:12.995 +02:00 [INF] Executing endpoint 'MagicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MagicVilla_VillaAPI)'
+2022-10-06 22:41:13.006 +02:00 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MagicVilla_VillaAPI.Models.Dto.VillaDTO]] GetVillas() on controller MagicVilla_VillaAPI.Controllers.VillaAPIController (MagicVilla_VillaAPI).
+2022-10-06 22:41:13.008 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-10-06 22:41:13.009 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-10-06 22:41:13.009 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-10-06 22:41:13.009 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-10-06 22:41:13.009 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-10-06 22:41:13.010 +02:00 [DBG] Executing controller factory for controller MagicVilla_VillaAPI.Controllers.VillaAPIController (MagicVilla_VillaAPI)
+2022-10-06 22:41:13.010 +02:00 [DBG] Executed controller factory for controller MagicVilla_VillaAPI.Controllers.VillaAPIController (MagicVilla_VillaAPI)
+2022-10-06 22:41:13.011 +02:00 [INF] Getting all villas
+2022-10-06 22:41:13.013 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter"]
+2022-10-06 22:41:13.015 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-10-06 22:41:13.017 +02:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-10-06 22:41:13.018 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-10-06 22:41:13.018 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-10-06 22:41:13.018 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-10-06 22:41:13.019 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MagicVilla_VillaAPI.Models.Dto.VillaDTO, MagicVilla_VillaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-10-06 22:41:13.112 +02:00 [INF] Executed action MagicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MagicVilla_VillaAPI) in 99.7551ms
+2022-10-06 22:41:13.113 +02:00 [INF] Executed endpoint 'MagicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MagicVilla_VillaAPI)'
+2022-10-06 22:41:13.113 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7092/api/VillaAPI - - - 200 108 application/json;+charset=utf-8 126.0569ms
+2022-10-06 22:41:19.866 +02:00 [DBG] Connection id "0HML7RC9277AV" received FIN.
+2022-10-06 22:41:19.871 +02:00 [DBG] The connection queue processing loop for 0HML7RC9277AV completed.
+2022-10-06 22:41:19.871 +02:00 [DBG] Connection id "0HML7RC9277AV" is closed. The last processed stream ID was 17.
+2022-10-06 22:41:19.872 +02:00 [DBG] Connection id "0HML7RC9277AV" sending FIN because: "The client closed the connection."
+2022-10-06 22:41:19.873 +02:00 [DBG] Connection id "0HML7RC9277AV" stopped.

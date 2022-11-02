@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.AssemblyInfo.cs
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\OneDrive - FELLESTJENESTER SA\Skrivebord\asp.net\MagicVilla_VillaAPI\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.MvcApplicationPartsAssemblyInfo.cache
