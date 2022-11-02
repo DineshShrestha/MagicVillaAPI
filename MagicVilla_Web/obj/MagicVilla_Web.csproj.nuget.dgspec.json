@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj": {}
+    "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
+    "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
+        "projectUniqueName": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
         "projectName": "MagicVilla_Utility",
-        "projectPath": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\obj\\",
+        "projectPath": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
+        "packagesPath": "C:\\Users\\sdin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sdin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,20 +64,20 @@
         }
       }
     },
-    "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj": {
+    "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj",
+        "projectUniqueName": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj",
         "projectName": "MagicVilla_Web",
-        "projectPath": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\obj\\",
+        "projectPath": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\MagicVilla_Web.csproj",
+        "packagesPath": "C:\\Users\\sdin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sdin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
-                "projectPath": "C:\\Users\\admin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj"
+              "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
+                "projectPath": "C:\\Users\\sdin\\OneDrive - FELLESTJENESTER SA\\Skrivebord\\asp.net\\MagicVilla_VillaAPI\\MagicVilla_Utility\\MagicVilla_Utility.csproj"
               }
             }
           }
@@ -116,6 +116,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
